@@ -2,7 +2,7 @@
 [![Generic badge](https://img.shields.io/badge/C++-11-green.svg)](https://shields.io/)
 > Read a file of records into an array of objects, then loop through the array and print the objects.
 
-![](project1.gif)
+![](tty.gif)
 
 **Installation**
 ---
